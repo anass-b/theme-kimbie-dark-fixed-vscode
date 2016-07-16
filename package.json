@@ -1,0 +1,22 @@
+{
+    "name": "theme-kimbie-dark-fixed",
+    "displayName": "Kimbie Dark Fixed",
+    "description": "Kimbie Dark Fixed",
+    "version": "0.0.1",
+    "publisher": "AnassB",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kimbie Dark Fixed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kimbie_dark.tmTheme"
+            }
+        ]
+    }
+}
