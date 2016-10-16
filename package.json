@@ -4,6 +4,7 @@
     "description": "Kimbie Dark Fixed",
     "version": "0.0.1",
     "publisher": "anassb",
+    "icon": "assets/icon.png",
     "repository" : {
         "type" : "git",
         "url" : "https://github.com/anass-b/theme-kimbie-dark-fixed-vscode.git"
