@@ -2,12 +2,12 @@
     "name": "theme-kimbie-dark-fixed",
     "displayName": "Kimbie Dark Fixed",
     "description": "Kimbie Dark Fixed",
-    "version": "0.0.4",
-    "publisher": "anassb",
+    "version": "1.0.0",
+    "publisher": "eli-ba",
     "icon": "assets/icon.png",
     "repository" : {
         "type" : "git",
-        "url" : "https://github.com/anass-b/theme-kimbie-dark-fixed-vscode.git"
+        "url" : "https://github.com/eli-ba/theme-kimbie-dark-fixed-vscode.git"
     },
     "engines": {
         "vscode": "^1.0.0"
