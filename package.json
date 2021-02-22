@@ -2,8 +2,8 @@
     "name": "theme-kimbie-dark-fixed",
     "displayName": "Kimbie Dark Fixed",
     "description": "Kimbie Dark Fixed",
-    "version": "1.0.0",
-    "publisher": "eli-ba",
+    "version": "0.0.4",
+    "publisher": "anassb",
     "icon": "assets/icon.png",
     "repository" : {
         "type" : "git",
